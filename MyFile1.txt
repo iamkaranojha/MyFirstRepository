@@ -1,1 +1,4 @@
 This is my first git file
+
+
+I need to commit again since i modified(changed file content) this file after previous commit successfully done
